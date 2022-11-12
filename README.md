@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ManjuKannavalli
-- 👀 I’m interested in projects which help for better business decisions
-- 🌱 I’m currently learning Data Science(Python, SQL,Power BI)
-- 📫 How to reach me https://www.linkedin.com/in/manjunath-v-kannavalli/
+Using this data to discover if Netflix’s movies are getting shorter over time and which guest stars appear in the most popular episode of "The Office", using everything from lists and loops to pandas and matplotlib.
+exploratory data analysis
+manipulating raw data and drawing conclusions from plots
 
 <!---
 ManjuKannavalli/ManjuKannavalli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
